@@ -1,0 +1,125 @@
+C:\Users\Nadia\source\repos\TF\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+C:\Users\Nadia\source\repos\TF\TF\x64\Debug\TF.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Nadia\source\repos\TF\TF\x64\Debug\TF.MyForm.resources
+C:\Users\Nadia\source\repos\TF\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+C:\Users\Nadia\source\repos\TF\TF\x64\Debug\TF.FrmMenu.resources
+D:\FIORELLA\Programacion\PROGRAMACION II\TF\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+D:\FIORELLA\Programacion\PROGRAMACION II\TF\TF\x64\Debug\TF.vcxproj.SuggestedBindingRedirects.cache
+D:\FIORELLA\Programacion\PROGRAMACION II\TF\TF\x64\Debug\TF.FrmMenu.resources
+D:\FIORELLA\Programacion\PROGRAMACION II\TF\TF\x64\Debug\TF.MyForm.resources
+D:\FIORELLA\Programacion\PROGRAMACION II\TF\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+C:\Users\Nadia\OneDrive\Escritorio\Nueva carpeta\TF\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+C:\Users\Nadia\OneDrive\Escritorio\Nueva carpeta\TF\TF\x64\Debug\TF.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Nadia\OneDrive\Escritorio\Nueva carpeta\TF\TF\x64\Debug\TF.FrmMenu.resources
+C:\Users\Nadia\OneDrive\Escritorio\Nueva carpeta\TF\TF\x64\Debug\TF.MyForm.resources
+C:\Users\Nadia\OneDrive\Escritorio\Nueva carpeta\TF\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+D:\FIORELLA\Programacion\PROGRAMACION II\TF\TF\x64\Debug\TF.FmrInstrucciones.resources
+D:\FIORELLA\Programacion\PROGRAMACION II\TF\TF\x64\Debug\TF.FrmCreditos.resources
+C:\Users\Nadia\OneDrive\Escritorio\TF_GRUPO3\TF\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+C:\Users\Nadia\OneDrive\Escritorio\TF_GRUPO3\TF\TF\x64\Debug\TF.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Nadia\OneDrive\Escritorio\TF_GRUPO3\TF\TF\x64\Debug\TF.FmrInstrucciones.resources
+C:\Users\Nadia\OneDrive\Escritorio\TF_GRUPO3\TF\TF\x64\Debug\TF.FrmCreditos.resources
+C:\Users\Nadia\OneDrive\Escritorio\TF_GRUPO3\TF\TF\x64\Debug\TF.FrmMenu.resources
+C:\Users\Nadia\OneDrive\Escritorio\TF_GRUPO3\TF\TF\x64\Debug\TF.MyForm.resources
+C:\Users\Nadia\OneDrive\Escritorio\TF_GRUPO3\TF\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+C:\Users\Nadia\OneDrive\Escritorio\TF_GRUPO3\TF\TF\x64\Debug\TF.Nivel2.resources
+C:\Users\Nadia\OneDrive\Escritorio\TF_GRUPO3\TF\TF\x64\Debug\TF.FrmSelectorDeNivel.resources
+C:\Users\Nadia\OneDrive\Escritorio\TF_GRUPO3\TF\TF\x64\Debug\TF.Lose.resources
+C:\Users\Nadia\OneDrive\Escritorio\TF_GRUPO3\TF\TF\x64\Debug\TF.Win1.resources
+C:\Users\Nadia\OneDrive\Escritorio\TF_GRUPO3\TF\TF\x64\Debug\TF.Win2.resources
+C:\Users\EDUARDO JARAMA\Music\TF\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+C:\Users\EDUARDO JARAMA\Music\TF\TF\x64\Debug\TF.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\EDUARDO JARAMA\Music\TF\TF\x64\Debug\TF.FmrInstrucciones.resources
+C:\Users\EDUARDO JARAMA\Music\TF\TF\x64\Debug\TF.FrmCreditos.resources
+C:\Users\EDUARDO JARAMA\Music\TF\TF\x64\Debug\TF.FrmMenu.resources
+C:\Users\EDUARDO JARAMA\Music\TF\TF\x64\Debug\TF.FrmSelectorDeNivel.resources
+C:\Users\EDUARDO JARAMA\Music\TF\TF\x64\Debug\TF.Lose.resources
+C:\Users\EDUARDO JARAMA\Music\TF\TF\x64\Debug\TF.MyForm.resources
+C:\Users\EDUARDO JARAMA\Music\TF\TF\x64\Debug\TF.Nivel2.resources
+C:\Users\EDUARDO JARAMA\Music\TF\TF\x64\Debug\TF.Win1.resources
+C:\Users\EDUARDO JARAMA\Music\TF\TF\x64\Debug\TF.Win2.resources
+C:\Users\EDUARDO JARAMA\Music\TF\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+C:\Users\Nadia\OneDrive\Escritorio\TF_progra_grupo6\TF\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+C:\Users\Nadia\OneDrive\Escritorio\TF_progra_grupo6\TF\TF\x64\Debug\TF.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Nadia\OneDrive\Escritorio\TF_progra_grupo6\TF\TF\x64\Debug\TF.FmrInstrucciones.resources
+C:\Users\Nadia\OneDrive\Escritorio\TF_progra_grupo6\TF\TF\x64\Debug\TF.FrmCreditos.resources
+C:\Users\Nadia\OneDrive\Escritorio\TF_progra_grupo6\TF\TF\x64\Debug\TF.FrmMenu.resources
+C:\Users\Nadia\OneDrive\Escritorio\TF_progra_grupo6\TF\TF\x64\Debug\TF.FrmSelectorDeNivel.resources
+C:\Users\Nadia\OneDrive\Escritorio\TF_progra_grupo6\TF\TF\x64\Debug\TF.Lose.resources
+C:\Users\Nadia\OneDrive\Escritorio\TF_progra_grupo6\TF\TF\x64\Debug\TF.MyForm.resources
+C:\Users\Nadia\OneDrive\Escritorio\TF_progra_grupo6\TF\TF\x64\Debug\TF.Nivel2.resources
+C:\Users\Nadia\OneDrive\Escritorio\TF_progra_grupo6\TF\TF\x64\Debug\TF.Win1.resources
+C:\Users\Nadia\OneDrive\Escritorio\TF_progra_grupo6\TF\TF\x64\Debug\TF.Win2.resources
+C:\Users\Nadia\OneDrive\Escritorio\TF_progra_grupo6\TF\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+C:\Users\EDUARDO JARAMA\Desktop\TF\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+C:\Users\EDUARDO JARAMA\Desktop\TF\TF\x64\Debug\TF.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\EDUARDO JARAMA\Desktop\TF\TF\x64\Debug\TF.FmrInstrucciones.resources
+C:\Users\EDUARDO JARAMA\Desktop\TF\TF\x64\Debug\TF.FrmCreditos.resources
+C:\Users\EDUARDO JARAMA\Desktop\TF\TF\x64\Debug\TF.FrmMenu.resources
+C:\Users\EDUARDO JARAMA\Desktop\TF\TF\x64\Debug\TF.FrmSelectorDeNivel.resources
+C:\Users\EDUARDO JARAMA\Desktop\TF\TF\x64\Debug\TF.Lose.resources
+C:\Users\EDUARDO JARAMA\Desktop\TF\TF\x64\Debug\TF.MyForm.resources
+C:\Users\EDUARDO JARAMA\Desktop\TF\TF\x64\Debug\TF.Nivel2.resources
+C:\Users\EDUARDO JARAMA\Desktop\TF\TF\x64\Debug\TF.Win1.resources
+C:\Users\EDUARDO JARAMA\Desktop\TF\TF\x64\Debug\TF.Win2.resources
+C:\Users\EDUARDO JARAMA\Desktop\TF\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+C:\Users\EDUARDO JARAMA\Desktop\TF\TF\x64\Debug\TF.Historia.resources
+C:\Users\Nadia\OneDrive\Escritorio\grupo6\TF\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+C:\Users\Nadia\OneDrive\Escritorio\grupo6\TF\TF\x64\Debug\TF.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Nadia\OneDrive\Escritorio\grupo6\TF\TF\x64\Debug\TF.FmrInstrucciones.resources
+C:\Users\Nadia\OneDrive\Escritorio\grupo6\TF\TF\x64\Debug\TF.FrmCreditos.resources
+C:\Users\Nadia\OneDrive\Escritorio\grupo6\TF\TF\x64\Debug\TF.FrmMenu.resources
+C:\Users\Nadia\OneDrive\Escritorio\grupo6\TF\TF\x64\Debug\TF.FrmSelectorDeNivel.resources
+C:\Users\Nadia\OneDrive\Escritorio\grupo6\TF\TF\x64\Debug\TF.Historia.resources
+C:\Users\Nadia\OneDrive\Escritorio\grupo6\TF\TF\x64\Debug\TF.Lose.resources
+C:\Users\Nadia\OneDrive\Escritorio\grupo6\TF\TF\x64\Debug\TF.MyForm.resources
+C:\Users\Nadia\OneDrive\Escritorio\grupo6\TF\TF\x64\Debug\TF.Nivel2.resources
+C:\Users\Nadia\OneDrive\Escritorio\grupo6\TF\TF\x64\Debug\TF.Win1.resources
+C:\Users\Nadia\OneDrive\Escritorio\grupo6\TF\TF\x64\Debug\TF.Win2.resources
+C:\Users\Nadia\OneDrive\Escritorio\grupo6\TF\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+C:\Users\Nadia\OneDrive\Escritorio\Nueva carpeta\TF\TF\x64\Debug\TF.FmrInstrucciones.resources
+C:\Users\Nadia\OneDrive\Escritorio\Nueva carpeta\TF\TF\x64\Debug\TF.FrmCreditos.resources
+C:\Users\Nadia\OneDrive\Escritorio\Nueva carpeta\TF\TF\x64\Debug\TF.FrmSelectorDeNivel.resources
+C:\Users\Nadia\OneDrive\Escritorio\Nueva carpeta\TF\TF\x64\Debug\TF.Historia.resources
+C:\Users\Nadia\OneDrive\Escritorio\Nueva carpeta\TF\TF\x64\Debug\TF.Lose.resources
+C:\Users\Nadia\OneDrive\Escritorio\Nueva carpeta\TF\TF\x64\Debug\TF.Nivel2.resources
+C:\Users\Nadia\OneDrive\Escritorio\Nueva carpeta\TF\TF\x64\Debug\TF.Win1.resources
+C:\Users\Nadia\OneDrive\Escritorio\Nueva carpeta\TF\TF\x64\Debug\TF.Win2.resources
+C:\Users\Nadia\OneDrive\Escritorio\universidad\2ciclo\Progra_2\Examenes\EntregableFinal_Grupo6_u202120430\TF\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+C:\Users\Nadia\OneDrive\Escritorio\universidad\2ciclo\Progra_2\Examenes\EntregableFinal_Grupo6_u202120430\TF\TF\x64\Debug\TF.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Nadia\OneDrive\Escritorio\universidad\2ciclo\Progra_2\Examenes\EntregableFinal_Grupo6_u202120430\TF\TF\x64\Debug\TF.FmrInstrucciones.resources
+C:\Users\Nadia\OneDrive\Escritorio\universidad\2ciclo\Progra_2\Examenes\EntregableFinal_Grupo6_u202120430\TF\TF\x64\Debug\TF.FrmCreditos.resources
+C:\Users\Nadia\OneDrive\Escritorio\universidad\2ciclo\Progra_2\Examenes\EntregableFinal_Grupo6_u202120430\TF\TF\x64\Debug\TF.FrmMenu.resources
+C:\Users\Nadia\OneDrive\Escritorio\universidad\2ciclo\Progra_2\Examenes\EntregableFinal_Grupo6_u202120430\TF\TF\x64\Debug\TF.FrmSelectorDeNivel.resources
+C:\Users\Nadia\OneDrive\Escritorio\universidad\2ciclo\Progra_2\Examenes\EntregableFinal_Grupo6_u202120430\TF\TF\x64\Debug\TF.Historia.resources
+C:\Users\Nadia\OneDrive\Escritorio\universidad\2ciclo\Progra_2\Examenes\EntregableFinal_Grupo6_u202120430\TF\TF\x64\Debug\TF.Lose.resources
+C:\Users\Nadia\OneDrive\Escritorio\universidad\2ciclo\Progra_2\Examenes\EntregableFinal_Grupo6_u202120430\TF\TF\x64\Debug\TF.MyForm.resources
+C:\Users\Nadia\OneDrive\Escritorio\universidad\2ciclo\Progra_2\Examenes\EntregableFinal_Grupo6_u202120430\TF\TF\x64\Debug\TF.Nivel2.resources
+C:\Users\Nadia\OneDrive\Escritorio\universidad\2ciclo\Progra_2\Examenes\EntregableFinal_Grupo6_u202120430\TF\TF\x64\Debug\TF.Win1.resources
+C:\Users\Nadia\OneDrive\Escritorio\universidad\2ciclo\Progra_2\Examenes\EntregableFinal_Grupo6_u202120430\TF\TF\x64\Debug\TF.Win2.resources
+C:\Users\Nadia\OneDrive\Escritorio\universidad\2ciclo\Progra_2\Examenes\EntregableFinal_Grupo6_u202120430\TF\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+C:\Users\Nadia\source\repos\TF_progra2\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+C:\Users\Nadia\source\repos\TF_progra2\TF\x64\Debug\TF.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Nadia\source\repos\TF_progra2\TF\x64\Debug\TF.FmrInstrucciones.resources
+C:\Users\Nadia\source\repos\TF_progra2\TF\x64\Debug\TF.FrmCreditos.resources
+C:\Users\Nadia\source\repos\TF_progra2\TF\x64\Debug\TF.FrmMenu.resources
+C:\Users\Nadia\source\repos\TF_progra2\TF\x64\Debug\TF.FrmSelectorDeNivel.resources
+C:\Users\Nadia\source\repos\TF_progra2\TF\x64\Debug\TF.Historia.resources
+C:\Users\Nadia\source\repos\TF_progra2\TF\x64\Debug\TF.Lose.resources
+C:\Users\Nadia\source\repos\TF_progra2\TF\x64\Debug\TF.MyForm.resources
+C:\Users\Nadia\source\repos\TF_progra2\TF\x64\Debug\TF.Nivel2.resources
+C:\Users\Nadia\source\repos\TF_progra2\TF\x64\Debug\TF.Win1.resources
+C:\Users\Nadia\source\repos\TF_progra2\TF\x64\Debug\TF.Win2.resources
+C:\Users\Nadia\source\repos\TF_progra2\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+C:\Users\Fiorella\Documents\Visual Studio 2022\Re-forest-Cataclysm-master\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+C:\Users\Fiorella\Documents\Visual Studio 2022\Re-forest-Cataclysm-master\TF\x64\Debug\TF.FmrInstrucciones.resources
+C:\Users\Fiorella\Documents\Visual Studio 2022\Re-forest-Cataclysm-master\TF\x64\Debug\TF.FrmCreditos.resources
+C:\Users\Fiorella\Documents\Visual Studio 2022\Re-forest-Cataclysm-master\TF\x64\Debug\TF.FrmMenu.resources
+C:\Users\Fiorella\Documents\Visual Studio 2022\Re-forest-Cataclysm-master\TF\x64\Debug\TF.FrmSelectorDeNivel.resources
+C:\Users\Fiorella\Documents\Visual Studio 2022\Re-forest-Cataclysm-master\TF\x64\Debug\TF.Historia.resources
+C:\Users\Fiorella\Documents\Visual Studio 2022\Re-forest-Cataclysm-master\TF\x64\Debug\TF.Lose.resources
+C:\Users\Fiorella\Documents\Visual Studio 2022\Re-forest-Cataclysm-master\TF\x64\Debug\TF.MyForm.resources
+C:\Users\Fiorella\Documents\Visual Studio 2022\Re-forest-Cataclysm-master\TF\x64\Debug\TF.Nivel2.resources
+C:\Users\Fiorella\Documents\Visual Studio 2022\Re-forest-Cataclysm-master\TF\x64\Debug\TF.Win1.resources
+C:\Users\Fiorella\Documents\Visual Studio 2022\Re-forest-Cataclysm-master\TF\x64\Debug\TF.Win2.resources
+C:\Users\Fiorella\Documents\Visual Studio 2022\Re-forest-Cataclysm-master\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
